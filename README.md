@@ -9,12 +9,11 @@ Matricula:
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspeção do Navegador](images/devtools.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+![Tela do projeto Replit](images/helloworld.png)
 
 ## Orientações sobre Linguagem MarkDown
 
