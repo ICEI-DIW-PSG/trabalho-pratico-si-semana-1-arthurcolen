@@ -4,21 +4,16 @@
 
 ## Informações Gerais
 
-Nome: Arthur Isaque Colen de Paula
-Matricula: 897597
+Nome:
+Matricula:
 
 ## Tela de inspeção com navegador
 
-![Tela de Inspeção do Navegador](images/devtools.png)
+`<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
 
-<<<<<<< HEAD
-![Projeto do Replit](images/helloworld.png)
-
-=======
-![Tela do projeto Replit](images/helloworld.png)
->>>>>>> arthur
+`<Coloque aqui o print da tela do projeto no Replit>`
 
 ## Orientações sobre Linguagem MarkDown
 
